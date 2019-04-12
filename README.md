@@ -15,5 +15,5 @@ Your `config.py` file should look like this. Enter the relevant information.
 
 ```
 DISCORD_TOKEN = 'NTY0Njc3ODI0OTg0NjQ1NjMy.XLAcng.ypl3Mm7NCd9DFUF3np_b8D1R5s0'
-CHANNEL_ID = 000000 # Should be the channel you want the bot to post in. Leave as int.
+CHANNEL_ID = 510323894633365524 # Should be the channel you want the bot to post in. Leave as int.
 ```
